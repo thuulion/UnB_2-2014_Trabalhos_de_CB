@@ -6,6 +6,5 @@ int main () {
 	scanf("%d %d", &a, &b);
 	c = b+a;
 	c *= c;
-	c += c;
 	return 0;
 }
